@@ -16,7 +16,7 @@ No installation required.
 The main use for this is to show that the outputted page is the same but the background code in html and CSS is adjusted to be clearer and more succinct. As you can see from the below screenshot, it is identical to the picture in the assignment requirements. 
 
 
-![screenshot of page](assets/images/screenshot.png)
+![screenshot of page](assets/images/screenshot.PNG)
 
 
 
